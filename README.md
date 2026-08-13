@@ -2,7 +2,7 @@
 
 My personal portfolio site, built with React, TypeScript, and Tailwind CSS. It highlights my background in data engineering and analytics, work experience, technical skills, and featured projects.
 
-**Live site:** _add your deployed URL here once hosted (e.g. via Vercel or Netlify)_
+**Live site:** [baljeetsingh01.netlify.app](https://baljeetsingh01.netlify.app)
 
 ## Sections
 
